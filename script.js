@@ -1,0 +1,6 @@
+let firstName = prompt("What is your first name?");
+if (firstName.length > 0) {
+  alert("Welcome, " + firstName);
+} else {
+  alert("‼️OH NO 🤕");
+}
